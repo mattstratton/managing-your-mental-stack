@@ -32,3 +32,27 @@ Listening to podcasts is a terribly inefficient way of transferring actual infor
 -- John Smyth, the "Ron Swanson of DevOps"
 
 ^ It takes 45 minutes, consists mostly of historical inaccuracies and long rants about the messed up state of the world today, and at the end you're not really sure you aren't more lost than when you started.  But it sure is entertaining.
+
+---
+
+# [fit] Avoid the echo chamber
+
+![](images/echo.jpg)
+
+---
+
+# Learn
+
+![](images/learn.jpg)
+
+---
+
+# Do
+
+![](images/do.gif)
+
+---
+
+# Teach
+
+![](images/teach.gif)
