@@ -14,17 +14,16 @@ autoscale: true
 
 ---
 
-# [fit] Information Overload[^ ]
+# [fit] Information Overload
 
 ![](images/overload.jpg)
-
-[^ ]: https://www.flickr.com/photos/graemenewcomb/358329131/
 
 ^ We are inundated with information today. Data and ideas are coming at us like a firehose, through things like social media, blogs, news channels, etc. 
 
 ^ If you're someone here at a DevOpsDays, you are likely a curious person. You want to know more. You might even be addicted to learning more, like I am. 
 
 ^ Jefferey Snover of Microsoft said once that if you don't want to have to learn new things, go into lumber. we've learned most of what there is to know about wood. It doesn't change. But technology is constantly changing, and we feel pressure to keep up with this flow of information, both because of a need to stay industry relevant, and also because of our personalities.
+
 ---
 
 ![fit](images/javascript.png)
