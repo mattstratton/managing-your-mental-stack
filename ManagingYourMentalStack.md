@@ -62,8 +62,9 @@ Listening to podcasts is a terribly inefficient way of transferring actual infor
 ^ Depending on how you listen to podcasts, too, they don't always get your full attention. If you listen to a podcast while you're driving, I sure hope you're NOT hanging on every word. You might even have a podcast going in your headphones while you're doing a mundane task. This plays into my next point which is...
 
 ---
+<br>
 
-## Absorb Ideas First
+# Absorb Ideas First
 
 ### Understand them later
 
@@ -101,6 +102,15 @@ If you're a Windows person, read /r/linux sometimes. Just stay away from the com
 
 ---
 
+# The cycle
+## Learn
+## Do
+## Teach
+
+^ I've actually seen this work really well in my engagements with customers. I'll spend time with them teaching them how to use Chef, and then help them try it out with something real. And they help teach each other through things like pair programming, etc. Think about the times that you've been trained on something and then you don't do anything with it for months. This sucks because you won't remember what you learned until you can cement it practically, and also you don't really have context for wy you are learning. 
+
+---
+
 # Learn
 
 ![](images/learn.jpg)
@@ -131,7 +141,7 @@ If you're a Windows person, read /r/linux sometimes. Just stay away from the com
 
 # Howto
 
-![](images/playbook.png)
+![](images/army.png)
 
 ^ Getting down to actual implementation of some of these ways of absorbing and consuming the information now. 
 
